@@ -9,5 +9,11 @@ APP說明：本程式內容為蝴蝶簡易圖鑑，圖片來源來自暨南國�
 ###### (2) 圖鑑的內容參考來自TBN生物多樣性(https://www.tbn.org.tw/)
 
 ### 開始畫面的 Storyboard 設計
+# ![Main Storyboard](img/6.png "Main Storyboard")
 
-# ![Main Storyboard](img/6.png "Main Storyboard")＃
+### 點入科目分類頁面，出現該蝴蝶科目列表
+# ![列表](img/7.png "列表")
+
+### 點入列表其中項目後，載入該筆資料內容
+# ![內容](img/8.png "內容")
+
