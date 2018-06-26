@@ -8,5 +8,6 @@ APP說明：本程式內容為蝴蝶簡易圖鑑，圖片來源來自暨南國�
 ###### (2) 圖片如有需要請寄「信箱」(jcliu@ncnu.edu.tw)索取授權
 ###### (2) 圖鑑的內容參考來自TBN生物多樣性(https://www.tbn.org.tw/)
 
-
 ### 開始畫面的 Storyboard 設計
+
+# ![Main Storyboard](img/6.png "Main Storyboard")＃
